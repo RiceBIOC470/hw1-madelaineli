@@ -1,3 +1,20 @@
+GB Cmments:
+Next time, please provide your functions as separate files. I had to rearrange your functions to get your homework to work correctly. Otherwise nothing would work. 
+Prob1: 100%
+Prob2:
+P1:100
+P2: 100
+P3:100
+P4:100
+P5:100 
+Prob3
+P1: 100
+P2:100
+P3:100 
+Overall: 100
+
+
+
 %% Homework 1. Due before class on 9/5/17
 
 
